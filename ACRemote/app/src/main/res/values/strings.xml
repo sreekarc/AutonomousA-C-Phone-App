@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A/C Remote</string>
+    <string name="up_button">Up</string>
+    <string name="down_button">Down</string>
+    <string name="power_button">Power</string>
+    <string name="temp_value">75</string>
+</resources>
